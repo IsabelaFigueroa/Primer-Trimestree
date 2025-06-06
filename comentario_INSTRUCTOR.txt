@@ -5,3 +5,5 @@ Te recomiendo practicar activamente, resolver los ejercicios asignados y documen
 Evita simplemente copiar los ejemplos. La clave está en hacerlos tú mismo, equivocarte, corregir y repetir. Este proceso fortalecerá significativamente tu lógica de programación y te permitirá entender conceptos que, de otro modo, pueden parecer confusos o difíciles.
 
 Recuerda: programar se aprende programando. ¡Sigue trabajando con constancia y verás grandes avances!
+
+# continua trabajando 
