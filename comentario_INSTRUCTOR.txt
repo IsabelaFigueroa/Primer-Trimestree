@@ -1,0 +1,7 @@
+El documento está tomando una buena forma, pero aún se encuentra en una etapa muy básica. Los archivos que has creado no incluyen ejercicios ni documentación del código, lo cual es fundamental para reforzar el aprendizaje.
+
+Te recomiendo practicar activamente, resolver los ejercicios asignados y documentar tu código con comentarios que expliquen qué hace cada parte. Esto no solo mejora tu comprensión, sino que también facilita la revisión y el mantenimiento del programa.
+
+Evita simplemente copiar los ejemplos. La clave está en hacerlos tú mismo, equivocarte, corregir y repetir. Este proceso fortalecerá significativamente tu lógica de programación y te permitirá entender conceptos que, de otro modo, pueden parecer confusos o difíciles.
+
+Recuerda: programar se aprende programando. ¡Sigue trabajando con constancia y verás grandes avances!
