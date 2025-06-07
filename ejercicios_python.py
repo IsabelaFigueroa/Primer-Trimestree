@@ -10,6 +10,6 @@ print(f"el resultado es:", result)
 
 
 x,y,z = 1,4,3
-print(x,y,z)
+print(x,y,z) ##holaaaa
 
 #esto es un ejemplo de operaciones matematicas en clase 
