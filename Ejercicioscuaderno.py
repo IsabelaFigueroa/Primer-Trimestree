@@ -95,6 +95,6 @@ numeros.append(num4)
 print("El numero mayor es: ",max(numeros))
 print("El numero menor es: ",min(numeros))
 
-
+#Ejercicios de clase
 
 
