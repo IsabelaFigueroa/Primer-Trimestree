@@ -141,3 +141,114 @@
 #     print("Nombre correcto")
 # else:
 #     print("Nombre incorrecto")
+
+# #------------------------------------------------------------------------------------------------------------
+
+# # 15.Crea una lista con tres colores.Cambia el segundo color solo si es igual a "azul", y muestra la lista actualizada
+# colores = ["rojo", "azul", "verde"]
+# if colores[1] == "azul":
+#     colores[1] = "amarillo"
+# print("Lista actualizada:", colores)
+
+#---------------------------------------------------------------------------------------------------------
+
+# #Ejercicios con Tuplas (con condicionales)
+# # 16. Crea una tupla con los valores (5, 8, 12, 20). Si el primer valor es menor que último, muestra “Orden ascendente”, si no, “Orden 
+
+# tupla = (5, 8, 12, 20)
+# if tupla[0] < tupla[-1]:
+#     print("Orden ascendente)")
+# else:
+#     print("Orden descendente")
+
+#-----------------------------------------------------------------------------------------------------
+
+# # 17.Dada la tupla (25, 32, 28), verifica si el segundo valor es mayor a 30. Si lo es,muestra “Edad mayor a 30”, si no, “Edad menor o igual a 30”.
+
+# tupla = (25, 32, 28)
+# if tupla[1] > 30:
+#     print("Edad mayor a 30")
+# else:
+#     print("Edad menor o igual a 30")
+
+#---------------------------------------------------------------------------------------------------------
+
+# # 18.Convierte la tupla (1, 2, 3) a lista, cambia el segundo valor a 10 solo si es igual a 2, luego vuelve a convertirla en tupla y muéstrala.
+
+# tupla = (1, 2, 3)
+# lista = list(tupla)
+# if lista[1] == 2:
+#     lista[1] = 10
+# tupla = tuple(lista)
+# print("Tupla modificada:", tupla)
+
+# #-----------------------------------------------------------------------------------------------------
+# # 19.Dada la tupla (4, 9), accede al segundo valor. Si es mayor que 5, muestra “Coordenada alta”, si no, “Coordenada baja”.
+
+# tupla = (4, 9)
+# valor = tupla[1]
+# if valor > 5:
+#     print("Coordenada alta")
+# else:
+#     print("Coordenada baja")
+
+#----------------------------------------------------------------------------------------------------------
+
+# # 20. Compara si las tuplas (3, 4) y (3, 5) son iguales. Si lo son, muestra “Tuplas iguales”, si no, “Tuplas diferentes”.
+
+# tupla1 = (3, 4)
+# tupla2 = (3, 5)
+
+# if tupla1 == tupla2:
+#     print("Tuplas iguales")
+# else:
+#     print("Tuplas diferentes")
+#----------------------------------------------------------------------------------------------------
+
+# # Ejercicios con Diccionarios (con condicionales)
+# #21. Crea un diccionario con {"nombre": "Juan", "edad": 17}. Si la edad es mayor o igual a 18, muestra “Adulto”, si no, muestra “Menor de edad”.
+
+# persona = {"nombre": "Juan", "edad": 17}
+# if persona["edad"] >= 18:
+#     print("Adulto")
+# else:
+#     print("Menor de edad")
+
+#-------------------------------------------------------------------------------------------------
+
+# #22.Crea un diccionario {"nombre": "Lucía", "edad": 20}. Si la edad es mayor a 18, cambia el valor de “edad” a 21. Luego muestra el diccionario.
+
+# persona = {"nombre": "Lucía", "edad": 20}
+# if persona["edad"] > 18:
+#     persona["edad"] = 21
+# print(persona)
+
+#------------------------------------------------------------------------------------------------
+
+# # 23. Crea un diccionario con {"nombre": "Carlos"}. Si la clave “ciudad” no existe,agrégala con el valor “Bogotá” y muestra el diccionario.
+
+# diccionario = {"nombre": "Carlos"}
+# if "ciudad" not in diccionario:
+# diccionario["ciudad"] = "Bogotá"
+# print(diccionario)
+
+#------------------------------------------------------------------------------------------
+
+# # 24.Dado el diccionario {"producto": "pan", "precio": 1200}, verifica si la clave“precio” existe. Si existe, muestra su valor, si no, muestra “No hay precio”.
+# producto = {"producto": "pan", "precio": 1200}
+# if "precio" in producto:
+# print(producto["precio"])
+# else:
+# print("No hay precio")
+# productos = {"pan": 1200, "leche": 2000}
+ #---------------------------------------------------------------------------------------------
+
+# # 25. Crea un diccionario con {"pan": 1200, "leche": 2000}. Si “pan” está en el diccionario, muestra su precio; si no, muestra “Producto no disponible”
+
+# productos = {"pan": 1200, "leche": 2000}
+# if "pan" in productos:
+#     print(productos["pan"])
+# else:
+#     print("Producto no disponible")
+
+
