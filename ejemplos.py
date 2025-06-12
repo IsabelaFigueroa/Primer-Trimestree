@@ -121,3 +121,5 @@ Materia3="Ingles"
 Materia4="Fisica"
 Materia5="Quimica"
 print(f"Las notas finales del estudiante son:   ")
+
+#Ejercicios y ejemplos en clase"
