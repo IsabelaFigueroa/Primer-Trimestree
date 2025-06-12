@@ -36,3 +36,4 @@ mitad=promedio//2
 print(mitad)
 lista1 = [num1**num2,num3+num4,+num5//num6,num7-num9]
 print(f"Lista de numeros:",lista1)
+#-------------------------------------------------------
