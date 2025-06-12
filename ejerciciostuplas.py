@@ -8,3 +8,4 @@ mitupla=("hola mundo",12,3.14)
 print(mitupla)
 tuplaanimada=((1,2),3)
 print("primer valor de la tuplaanimada: ",tuplaanimada)
+#Ejemplo tuplas
